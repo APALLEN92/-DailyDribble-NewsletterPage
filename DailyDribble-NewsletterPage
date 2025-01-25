@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Title</title>
+        <link rel="stylesheet" href="styles.css" />
+        <script src="script.js"></script>
+    </head>
+    <body>
+        
+        <div class="header">
+          <h1>THE DAILY DRIBBLE</h1>
+        </div>
+        
+        <div Class="image">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/London_Olympic_Stadium_West_Ham.jpg" width="100%" />
+        </div>
+        
+        <div Class="sub">
+            <h3>Your daily dose of soccer stories from on and off the pitch. 
+                Interviews,  breaking news and more!</h3>
+        </div>
+        
+        <div Class="Typebar" >
+            <input type="text" placeholder="Enter Your Email"> 
+        </div>
+        
+        <div Class="join">
+            <button> JOIN NOW! </button>
+        </div>
+        
+        <div class="hyperlink">
+            <p> Read our <a href="terms of service."> terms of service</a></p>
+            
+        </div>
+        
+    </body>
+</html>
