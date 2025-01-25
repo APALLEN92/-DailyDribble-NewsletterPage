@@ -1,0 +1,67 @@
+.header {
+    font-size: 23px;
+    color: #121212;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+.image {
+    border: 3px solid #121212;
+}
+
+.sub {
+    color: #121212;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+.Typebar {
+    color: #121212;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+input[type="text"] {
+    text-align: center; /* Centres the placeholder text horizontally */
+    height: 40px; /* Adjust the height to vertically align text */
+    width: 50%;
+    font-size: 16px;
+}
+.join button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    width: 231px; /* Makes the button wider */
+    height: 45px; /* Adjusts the height */
+    margin-top: 5px;
+    font-size: 16px;
+    background-color: white;
+    color: #121212;
+    border: solid;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.join button:hover {
+    background-color: red;
+}
+
+.hyperlink {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
